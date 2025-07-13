@@ -43,7 +43,7 @@ A class-based employee system with salary hike functionality and encapsulated at
 
 
 
-## 🚀 How to Ru
+## 🚀 How to 
 
 Clone the repository:
 
